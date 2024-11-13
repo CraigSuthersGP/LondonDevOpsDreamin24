@@ -1,0 +1,1092 @@
+{
+    "id": "ltng:pageView",
+    "ts": 2286.4,
+    "duration": 1192,
+    "pageStartTime": 1709832513996,
+    "marks": {
+        "transport": [
+            {
+                "ts": 2366.5,
+                "context": {
+                    "defLoaderId": 1,
+                    "initiatorType": "script",
+                    "nextHopProtocol": "h2",
+                    "duration": 27,
+                    "startTime": 2366,
+                    "fetchStart": 2366,
+                    "serverTime": 236,
+                    "redirect": 0,
+                    "requestStart": 2369,
+                    "incompleteTimings": false,
+                    "transferSize": 0,
+                    "encodedBodySize": 266599,
+                    "decodedBodySize": 1118886,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 4,
+                    "transfer": 23,
+                    "defs": [
+                        "markup://aura.app:markup://one:one",
+                        "markup://aura.mode:PROD",
+                        "markup://forceSearch:assistantDialogContainer",
+                        "markup://lightning:iconSvgTemplatesUtility"
+                    ],
+                    "xhrDelay": 52
+                },
+                "duration": 79
+            },
+            {
+                "ts": 2377,
+                "context": {
+                    "defLoaderId": 2,
+                    "auraXHRId": 2,
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 5062,
+                    "xhrDuration": 243,
+                    "xhrStall": 0,
+                    "startTime": 2280,
+                    "fetchStart": 2280,
+                    "requestStart": 2281,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 241,
+                    "transfer": 2,
+                    "transferSize": 1875,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 87,
+                    "xhrDelay": -2
+                },
+                "duration": 241
+            },
+            {
+                "ts": 2355,
+                "context": {
+                    "auraXHRId": 5,
+                    "requestLength": 1217,
+                    "background": false,
+                    "actionDefs": [
+                        "344;a"
+                    ],
+                    "requestId": "2355000000b864d3dc",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 2310,
+                    "xhrDuration": 352,
+                    "xhrStall": 144,
+                    "startTime": 2355,
+                    "fetchStart": 2355,
+                    "requestStart": 2499,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 352,
+                    "transfer": 0,
+                    "transferSize": 1468,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 118,
+                    "xhrDelay": 3
+                },
+                "duration": 355
+            },
+            {
+                "ts": 2733.5,
+                "context": {
+                    "auraXHRId": 7,
+                    "requestLength": 1080,
+                    "background": false,
+                    "actionDefs": [
+                        "611;a"
+                    ],
+                    "requestId": "273340000058132a4e",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1797,
+                    "xhrDuration": 138,
+                    "xhrStall": 0,
+                    "startTime": 2733,
+                    "fetchStart": 2733,
+                    "requestStart": 2734,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 137,
+                    "transfer": 0,
+                    "transferSize": 1164,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 12,
+                    "xhrDelay": 1
+                },
+                "duration": 139
+            },
+            {
+                "ts": 2758.7,
+                "context": {
+                    "auraXHRId": 8,
+                    "requestLength": 1203,
+                    "background": false,
+                    "actionDefs": [
+                        "638;a"
+                    ],
+                    "requestId": "27587000007ce73f6f",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 2403,
+                    "xhrDuration": 131,
+                    "xhrStall": 0,
+                    "startTime": 2759,
+                    "fetchStart": 2759,
+                    "requestStart": 2760,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 130,
+                    "transfer": 0,
+                    "transferSize": 1491,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 23,
+                    "xhrDelay": 1
+                },
+                "duration": 132
+            },
+            {
+                "ts": 2728.9,
+                "context": {
+                    "auraXHRId": 6,
+                    "requestLength": 1159,
+                    "background": false,
+                    "actionDefs": [
+                        "594;a"
+                    ],
+                    "requestId": "272890000055d749aa",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 71561,
+                    "xhrDuration": 165,
+                    "xhrStall": 0,
+                    "startTime": 2729,
+                    "fetchStart": 2729,
+                    "requestStart": 2730,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 162,
+                    "transfer": 2,
+                    "transferSize": 11151,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 31,
+                    "xhrDelay": 2
+                },
+                "duration": 167
+            },
+            {
+                "ts": 2789.9,
+                "context": {
+                    "auraXHRId": 9,
+                    "requestLength": 1189,
+                    "background": false,
+                    "actionDefs": [
+                        "644;a"
+                    ],
+                    "requestId": "2789900000bee644d2",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1830,
+                    "xhrDuration": 104,
+                    "xhrStall": 0,
+                    "startTime": 2790,
+                    "fetchStart": 2790,
+                    "requestStart": 2791,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 101,
+                    "transfer": 2,
+                    "transferSize": 1272,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 12,
+                    "xhrDelay": 5
+                },
+                "duration": 109
+            },
+            {
+                "ts": 2900.5,
+                "context": {
+                    "defLoaderId": 3,
+                    "initiatorType": "script",
+                    "nextHopProtocol": "h2",
+                    "duration": 3,
+                    "startTime": 2901,
+                    "fetchStart": 2901,
+                    "serverTime": 46,
+                    "redirect": 0,
+                    "requestStart": 2903,
+                    "incompleteTimings": false,
+                    "transferSize": 0,
+                    "encodedBodySize": 96737,
+                    "decodedBodySize": 467733,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 2,
+                    "transfer": 1,
+                    "defs": [
+                        "markup://aura.app:markup://one:one",
+                        "markup://aura.mode:PROD",
+                        "markup://home:eventContainer",
+                        "markup://home:recentRecordContainer",
+                        "markup://runtime_sales_activities:todayTaskContainer",
+                        "markup://runtime_sales_seller_home:banner",
+                        "markup://runtime_sales_seller_home:kpiPreviewWrapper",
+                        "markup://runtime_sales_seller_home:myPerformanceContainerWrapper",
+                        "markup://runtime_sales_seller_home:sellerHomeKondoTheme"
+                    ],
+                    "xhrDelay": 16
+                },
+                "duration": 19
+            },
+            {
+                "ts": 3019.7,
+                "context": {
+                    "defLoaderId": 4,
+                    "initiatorType": "script",
+                    "nextHopProtocol": "h2",
+                    "duration": 1,
+                    "startTime": 3020,
+                    "fetchStart": 3020,
+                    "serverTime": 23,
+                    "redirect": 0,
+                    "requestStart": 3020,
+                    "incompleteTimings": false,
+                    "transferSize": 0,
+                    "encodedBodySize": 23576,
+                    "decodedBodySize": 139241,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 0,
+                    "transfer": 0,
+                    "defs": [
+                        "markup://aura.app:markup://one:one",
+                        "markup://aura.mode:PROD",
+                        "markup://runtime_sales_activities:taskCompactStencil"
+                    ],
+                    "xhrDelay": 3
+                },
+                "duration": 4
+            },
+            {
+                "ts": 2924.5,
+                "context": {
+                    "auraXHRId": 10,
+                    "requestLength": 1068,
+                    "background": false,
+                    "actionDefs": [
+                        "651;a"
+                    ],
+                    "requestId": "292450000033a02863",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1470,
+                    "xhrDuration": 115,
+                    "xhrStall": 0,
+                    "startTime": 2925,
+                    "fetchStart": 2925,
+                    "requestStart": 2926,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 114,
+                    "transfer": 0,
+                    "transferSize": 1107,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 20,
+                    "xhrDelay": 68
+                },
+                "duration": 183
+            },
+            {
+                "ts": 2930.7,
+                "context": {
+                    "auraXHRId": 11,
+                    "requestLength": 1105,
+                    "background": false,
+                    "actionDefs": [
+                        "656;a"
+                    ],
+                    "requestId": "2930700000cd1a621f",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1966,
+                    "xhrDuration": 115,
+                    "xhrStall": 0,
+                    "startTime": 2932,
+                    "fetchStart": 2932,
+                    "requestStart": 2932,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 115,
+                    "transfer": 0,
+                    "transferSize": 1314,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 18,
+                    "xhrDelay": 66
+                },
+                "duration": 181
+            },
+            {
+                "ts": 2940.6,
+                "context": {
+                    "auraXHRId": 14,
+                    "requestLength": 1098,
+                    "background": false,
+                    "actionDefs": [
+                        "671;a"
+                    ],
+                    "requestId": "2940600000229e5f70",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1982,
+                    "xhrDuration": 122,
+                    "xhrStall": 0,
+                    "startTime": 2941,
+                    "fetchStart": 2941,
+                    "requestStart": 2941,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 120,
+                    "transfer": 2,
+                    "transferSize": 1314,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 22,
+                    "xhrDelay": 54
+                },
+                "duration": 176
+            },
+            {
+                "ts": 2945.7,
+                "context": {
+                    "auraXHRId": 15,
+                    "requestLength": 1092,
+                    "background": false,
+                    "actionDefs": [
+                        "675;a"
+                    ],
+                    "requestId": "2945700000e1b2c965",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1492,
+                    "xhrDuration": 116,
+                    "xhrStall": 0,
+                    "startTime": 2946,
+                    "fetchStart": 2946,
+                    "requestStart": 2946,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 116,
+                    "transfer": 0,
+                    "transferSize": 1117,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 19,
+                    "xhrDelay": 59
+                },
+                "duration": 175
+            },
+            {
+                "ts": 2937.7,
+                "context": {
+                    "auraXHRId": 13,
+                    "requestLength": 1101,
+                    "background": false,
+                    "actionDefs": [
+                        "666;a"
+                    ],
+                    "requestId": "2937700000bfa07853",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1996,
+                    "xhrDuration": 131,
+                    "xhrStall": 0,
+                    "startTime": 2939,
+                    "fetchStart": 2939,
+                    "requestStart": 2939,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 131,
+                    "transfer": 0,
+                    "transferSize": 1326,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 40,
+                    "xhrDelay": 64
+                },
+                "duration": 195
+            },
+            {
+                "ts": 2933.7,
+                "context": {
+                    "auraXHRId": 12,
+                    "requestLength": 1101,
+                    "background": false,
+                    "actionDefs": [
+                        "661;a"
+                    ],
+                    "requestId": "293370000025393c71",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 1965,
+                    "xhrDuration": 145,
+                    "xhrStall": 2,
+                    "startTime": 2935,
+                    "fetchStart": 2935,
+                    "requestStart": 2937,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 144,
+                    "transfer": 0,
+                    "transferSize": 1299,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 56,
+                    "xhrDelay": 63
+                },
+                "duration": 208
+            },
+            {
+                "ts": 3109,
+                "context": {
+                    "auraXHRId": 16,
+                    "requestLength": 2662,
+                    "background": false,
+                    "actionDefs": [
+                        "690;a",
+                        "797;a",
+                        "816;a",
+                        "731;a",
+                        "856;a"
+                    ],
+                    "requestId": "310890000009d10683",
+                    "status": 200,
+                    "statusText": "OK",
+                    "responseLength": 37525,
+                    "xhrDuration": 296,
+                    "xhrStall": 1,
+                    "startTime": 3109,
+                    "fetchStart": 3109,
+                    "requestStart": 3111,
+                    "dns": 0,
+                    "tcp": 0,
+                    "ttfb": 295,
+                    "transfer": 1,
+                    "transferSize": 5416,
+                    "nextHopProtocol": "http/1.1",
+                    "serverTime": 204,
+                    "xhrDelay": 2
+                },
+                "duration": 298
+            }
+        ],
+        "actions": [
+            {
+                "ts": 2355,
+                "context": {
+                    "id": "344;a",
+                    "abortable": true,
+                    "storable": true,
+                    "background": false,
+                    "cmp": "laf:platformPageResolver",
+                    "def": "serviceComponent://ui.force.components.controllers.platformStateManager.PlatformStateManagerController/ACTION$getTabByNameAndApp",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 107,
+                    "db": 4,
+                    "xhrServerTime": 118,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 355
+            },
+            {
+                "ts": 2774.4,
+                "context": {
+                    "id": "642;a",
+                    "abortable": true,
+                    "storable": true,
+                    "background": false,
+                    "cmp": "force:socialPhotoController",
+                    "def": "serviceComponent://ui.force.components.controllers.socialPhoto.SocialPhotoController/ACTION$resolvePhotos",
+                    "state": "SUCCESS",
+                    "cache": true
+                },
+                "callbackTime": 1,
+                "enqueueWait": 13,
+                "duration": 15
+            },
+            {
+                "ts": 2732.79,
+                "context": {
+                    "id": "611;a",
+                    "abortable": true,
+                    "storable": true,
+                    "background": false,
+                    "cmp": "home:landing",
+                    "def": "serviceComponent://ui.home.impl.landing.LandingController/ACTION$populateTodayGVP",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 2,
+                    "db": 0,
+                    "xhrServerTime": 12,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 140
+            },
+            {
+                "ts": 2758,
+                "context": {
+                    "id": "638;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "force:recordGlobalValueProvider",
+                    "def": "serviceComponent://ui.force.components.controllers.recordGlobalValueProvider.RecordGvpController/ACTION$getRecord",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 11,
+                    "db": 1,
+                    "xhrServerTime": 23,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 137
+            },
+            {
+                "ts": 2728.9,
+                "context": {
+                    "id": "594;a",
+                    "abortable": true,
+                    "storable": true,
+                    "background": false,
+                    "cmp": "flexipage:page",
+                    "def": "serviceComponent://ui.flexipage.components.page.FlexipageControllerV2/ACTION$getPage",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "params": {
+                    "flexiPageDeveloperName": "runtime_sales_seller_home__SellerHome_L"
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 12,
+                    "db": 0,
+                    "xhrServerTime": 31,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 169
+            },
+            {
+                "ts": 2961.29,
+                "context": {
+                    "id": "697;a",
+                    "abortable": true,
+                    "storable": true,
+                    "background": false,
+                    "cmp": "home:eventCardDataManager",
+                    "def": "serviceComponent://ui.calendar.impl.controllers.SFDCCalendarDataProviderController/ACTION$getTodayEvents",
+                    "state": "SUCCESS",
+                    "cache": true
+                },
+                "callbackTime": 3,
+                "enqueueWait": 63,
+                "duration": 66
+            },
+            {
+                "ts": 2978.9,
+                "context": {
+                    "id": "728;a",
+                    "abortable": true,
+                    "storable": true,
+                    "background": false,
+                    "cmp": "runtime_sales_activities:todayTasksCardDataProvider",
+                    "def": "serviceComponent://ui.today.impl.components.today.taskContainer.TodayTasksCardDataManagerController/ACTION$getTasks",
+                    "state": "SUCCESS",
+                    "cache": true
+                },
+                "params": {
+                    "limit": 5
+                },
+                "callbackTime": 3,
+                "enqueueWait": 49,
+                "duration": 52
+            },
+            {
+                "ts": 2996.2,
+                "context": {
+                    "id": "783;a",
+                    "abortable": true,
+                    "storable": true,
+                    "background": false,
+                    "cmp": "home:recentRecordContainer",
+                    "def": "serviceComponent://ui.home.impl.recentRecordContainer.RecentRecordContainerController/ACTION$getRecords",
+                    "state": "SUCCESS",
+                    "cache": true
+                },
+                "callbackTime": 56,
+                "enqueueWait": 35,
+                "duration": 92
+            },
+            {
+                "ts": 2924.29,
+                "context": {
+                    "id": "651;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "runtime_sales_seller_home:banner",
+                    "def": "serviceComponent://ui.seller.home.components.controller.BannerController/ACTION$getBannerData",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 8,
+                    "db": 5,
+                    "xhrServerTime": 20,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 184
+            },
+            {
+                "ts": 2930.7,
+                "context": {
+                    "id": "656;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "runtime_sales_seller_home:kpiPreviewWrapper",
+                    "def": "serviceComponent://ui.seller.home.components.controller.KpiPreviewController/ACTION$getKpiData",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 9,
+                    "db": 1,
+                    "xhrServerTime": 18,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 182
+            },
+            {
+                "ts": 2940.5,
+                "context": {
+                    "id": "671;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "runtime_sales_seller_home:kpiPreviewWrapper",
+                    "def": "serviceComponent://ui.seller.home.components.controller.KpiPreviewController/ACTION$getKpiData",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 10,
+                    "db": 1,
+                    "xhrServerTime": 22,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 178
+            },
+            {
+                "ts": 2945.7,
+                "context": {
+                    "id": "675;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "runtime_sales_seller_home:myPerformanceContainerWrapper",
+                    "def": "serviceComponent://ui.seller.home.components.aura.controller.MyPerformanceController/ACTION$loadMyPerformanceUserData",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 10,
+                    "db": 1,
+                    "xhrServerTime": 19,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 175
+            },
+            {
+                "ts": 2937.7,
+                "context": {
+                    "id": "666;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "runtime_sales_seller_home:kpiPreviewWrapper",
+                    "def": "serviceComponent://ui.seller.home.components.controller.KpiPreviewController/ACTION$getKpiData",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 28,
+                    "db": 3,
+                    "xhrServerTime": 40,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 195
+            },
+            {
+                "ts": 2933.7,
+                "context": {
+                    "id": "661;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "runtime_sales_seller_home:kpiPreviewWrapper",
+                    "def": "serviceComponent://ui.seller.home.components.controller.KpiPreviewController/ACTION$getKpiData",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 45,
+                    "db": 5,
+                    "xhrServerTime": 56,
+                    "boxCarCount": 1
+                },
+                "callbackTime": 0,
+                "duration": 209
+            },
+            {
+                "ts": 2960.29,
+                "context": {
+                    "id": "690;a",
+                    "abortable": false,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "force:recordLayoutTemplate",
+                    "def": "serviceComponent://ui.force.components.controllers.recordLayoutBroker.RecordLayoutBrokerController/ACTION$getLayout",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 108,
+                "enqueueWait": 41,
+                "serverTime": {
+                    "total": 9,
+                    "db": 0,
+                    "xhrServerTime": 204,
+                    "boxCarCount": 5
+                },
+                "callbackTime": 1,
+                "duration": 449
+            },
+            {
+                "ts": 2980,
+                "context": {
+                    "id": "731;a",
+                    "abortable": true,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "none",
+                    "def": "aura://ComponentController/ACTION$getComponent",
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "params": {
+                    "name": "markup://force:listTemplate"
+                },
+                "xhrWait": 108,
+                "enqueueWait": 21,
+                "serverTime": {
+                    "total": 10,
+                    "db": 0,
+                    "xhrServerTime": 204,
+                    "boxCarCount": 5
+                },
+                "callbackTime": 3,
+                "duration": 433
+            },
+            {
+                "ts": 3109,
+                "context": {
+                    "id": "856;a",
+                    "abortable": true,
+                    "storable": false,
+                    "background": false,
+                    "cmp": "home:recentRecordContainer",
+                    "def": "serviceComponent://ui.home.impl.recentRecordContainer.RecentRecordContainerController/ACTION$getRecords",
+                    "refresh": true,
+                    "state": "SUCCESS",
+                    "cache": false
+                },
+                "xhrWait": 0,
+                "enqueueWait": 0,
+                "serverTime": {
+                    "total": 120,
+                    "db": 14,
+                    "xhrServerTime": 204,
+                    "boxCarCount": 5
+                },
+                "callbackTime": 0,
+                "duration": 304
+            }
+        ],
+        "component": [
+            {
+                "totalCreateTime": 288.22,
+                "slowestCreates": [
+                    {
+                        "name": "runtime_sales_activities:todayTaskContainer",
+                        "createCount": 1,
+                        "createTimeTotal": 14
+                    },
+                    {
+                        "name": "home:eventContainer",
+                        "createCount": 1,
+                        "createTimeTotal": 19.7
+                    },
+                    {
+                        "name": "forceSearch:assistantDialogContainer",
+                        "createCount": 1,
+                        "createTimeTotal": 65.11
+                    },
+                    {
+                        "name": "runtime_sales_seller_home:fp__N1127866667",
+                        "createCount": 1,
+                        "createTimeTotal": 79.4
+                    },
+                    {
+                        "name": "home:recentRecordContainer",
+                        "createCount": 1,
+                        "createTimeTotal": 14.5
+                    }
+                ]
+            }
+        ],
+        "custom": [
+            {
+                "ns": "ltng",
+                "name": "navContainer:create",
+                "ts": 2286.7,
+                "context": {
+                    "itemCount": 16
+                },
+                "owner": "one:appNavContainer",
+                "duration": 10
+            },
+            {
+                "ns": "flexipageInfo",
+                "name": "info",
+                "phase": "stamp",
+                "ts": 2638.6,
+                "context": {
+                    "flexipageType": "UtilityBar",
+                    "isCustomTemplate": false,
+                    "templateName": "one:utilityBarTemplateDesktop",
+                    "numVisibleRegions": 1,
+                    "flexipageRenderer": "Aura",
+                    "isCustom": true,
+                    "numBackgroundRegions": 0,
+                    "flexipageName": "0M0Hp000000JcjWKAS"
+                },
+                "owner": "flexipage:page"
+            },
+            {
+                "ns": "flexipageInfo",
+                "name": "info",
+                "phase": "stamp",
+                "ts": 2921.1,
+                "context": {
+                    "flexipageType": "EasyHomePage",
+                    "isCustomTemplate": false,
+                    "templateName": "runtime_sales_seller_home:sellerHomeDesktopTemplate",
+                    "numVisibleRegions": 9,
+                    "flexipageRenderer": "Aura",
+                    "isCustom": false,
+                    "numBackgroundRegions": 0,
+                    "flexipageName": "runtime_sales_seller_home__SellerHome_L"
+                },
+                "owner": "flexipage:page"
+            },
+            {
+                "ns": "S1PERF",
+                "name": "singlePaneWindowManager:contentSelected",
+                "ts": 2720.4,
+                "context": {},
+                "owner": "laf:singlePaneWindowManager",
+                "duration": 4
+            },
+            {
+                "ns": "S1PERF",
+                "name": "pageHost:loadContent",
+                "ts": 2726.9,
+                "context": {},
+                "owner": "laf:pageHost",
+                "duration": 6
+            },
+            {
+                "ns": "S1PERF",
+                "name": "RLTCacheInfo",
+                "phase": "stamp",
+                "ts": 2960.2,
+                "context": {
+                    "gusTeamId": "a00B0000003EdjdIAC",
+                    "hasLayout": false,
+                    "entityName": "Event",
+                    "mode": "VIEW",
+                    "type": "COMPACT",
+                    "cmpName": "recordLayoutTemplate"
+                },
+                "owner": "force:recordLayoutTemplate"
+            },
+            {
+                "ns": "socialPhotoBatchAction642;a",
+                "name": "SocialPhotoBatchAction is successful",
+                "phase": "stamp",
+                "ts": 2789.7,
+                "context": null,
+                "owner": "force:socialPhoto"
+            },
+            {
+                "ns": "force:recordLayoutTemplate",
+                "name": "layoutChange",
+                "phase": "stamp",
+                "ts": 3419.6,
+                "context": {
+                    "changed": true,
+                    "layoutKey": "Event-VIEW-COMPACT-----home_eventContainer--1-0"
+                }
+            },
+            {
+                "ns": "force:recordLayoutTemplate",
+                "name": "storageSize",
+                "phase": "stamp",
+                "ts": 3421.7,
+                "context": {
+                    "storageSize": "0.37646484375 KB"
+                }
+            }
+        ]
+    },
+    "owner": "navex:standardManager",
+    "unixTS": false,
+    "previousPage": {
+        "context": "undefined",
+        "attributes": {}
+    },
+    "attributes": {
+        "layoutContainer": "DLC",
+        "navStyle": "Standard",
+        "splitViewMode": "none",
+        "cacheContentSize": 0,
+        "darkModeEnabled": false,
+        "longTaskTotal": 589,
+        "longestTask": 326,
+        "network": {
+            "rtt": 100,
+            "downlink": 10,
+            "maxAllowedParallelXHRs": 6
+        },
+        "cores": 20,
+        "eptDeviation": false,
+        "expTime": 1190,
+        "expTimeDeviation": false,
+        "expTimePageExists": true,
+        "inFlightXHRS": 0,
+        "systemOrUntrackedNav": true,
+        "routerNavigations": 1,
+        "eptRedirectTime": 0,
+        "density": "COMFY",
+        "totalEpt": 3476.4,
+        "bootstrapType": "WARM",
+        "defaultCmp": [
+            "one:utilityBarItem",
+            "runtime_sales_seller_home:kpiPreviewWrapper",
+            "runtime_sales_seller_home:kpiPreviewWrapper",
+            "runtime_sales_seller_home:kpiPreviewWrapper",
+            "runtime_sales_seller_home:kpiPreviewWrapper",
+            "runtime_sales_seller_home:myPerformanceContainerWrapper",
+            "home:eventContainer",
+            "runtime_sales_activities:todayTaskContainer",
+            "home:recentRecordContainer"
+        ],
+        "gates": {
+            "lds.useNewTrackedFieldBehavior": true,
+            "lds.usePredictiveLoading": false,
+            "scenarioTrackerEnabled.instrumentation.ltng": true,
+            "scenarioTrackerMarksEnabled.instrumentation.ltng": false,
+            "ui.services.PageScopedCache.enabled": true,
+            "updatedEpt.instrumentation.ltng": false,
+            "limitPerfTrxMarks.instrumentation.ltng": true,
+            "browserIdleTime.instrumentation.ltng": false,
+            "clientTelemetry.instrumentation.ltng": true,
+            "componentProfiler.instrumentation.ltng": false,
+            "enableRuntimeReportingService.lwc.ltng": true,
+            "o11yAuraActionsEnabled.instrumentation.ltng": false,
+            "o11yEnabled.instrumentation.ltng": true,
+            "o11yNetworkEnabled.instrumentation.ltng": false,
+            "preloadRecordHomeOncePerPageType.lasr.ltng": true,
+            "forceRecordMarksEnabled": false,
+            "LWCMarksEnabled": false
+        },
+        "cdnEnabled": true,
+        "uriDefsEnabled": true
+    },
+    "cacheStats": {
+        "AuraStorage_actions": {
+            "hits": 10,
+            "misses": 0
+        },
+        "AuraRecordStore": {
+            "hits": 1,
+            "misses": 0
+        },
+        "AuraStorage_standardTempTabPersistence": {
+            "hits": 0,
+            "misses": 1
+        },
+        "AuraRecordStore_oneUserProfileCardTrigger": {
+            "hits": 1,
+            "misses": 0
+        },
+        "total": {
+            "hits": 12,
+            "misses": 1
+        }
+    },
+    "complexity": null,
+    "ept": 1190,
+    "sequence": 1,
+    "page": {
+        "context": "home:landing",
+        "attributes": {
+            "app": {
+                "appNamespace": "standard",
+                "appName": "LightningSales",
+                "appType": "Standard"
+            },
+            "url": "/lightning/page/home"
+        }
+    },
+    "clientSessionId": "489c66ec99556a66"
+}

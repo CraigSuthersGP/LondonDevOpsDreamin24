@@ -1,0 +1,23 @@
+{
+  "name": "LondonDev24",
+  "type": "module",
+  "scripts": {
+    "basic": "node ./src/basic_performance_test.js",
+    "ept": "node ./src/ept_performance_test.js"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^8.29.1",
+    "@wdio/devtools-service": "^8.29.1",
+    "@wdio/local-runner": "^8.29.2"
+  },
+  "dependencies": {
+    "@wdio/mocha-framework": "^8.39.0",
+    "@wdio/runner": "^8.39.0",
+    "@wdio/spec-reporter": "^8.39.0",
+    "dateformat": "^5.0.3",
+    "devtools": "^8.39.0",
+    "LondonDev24": "file:",
+    "mocha": "^10.4.0",
+    "uuid": "^9.0.1"
+  }
+}

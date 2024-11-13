@@ -1,0 +1,41 @@
+{
+    id: '39314e3b-4d85-41a9-affc-ebd6dd727578',
+    system: {
+      type: 'Windows_NT',
+      release: '10.0.22631',
+      platform: 'win32',
+      hostname: 'gp-xps-15'
+    },
+    pageStats: [
+      {
+        page: 'home',
+        count: 11,
+        sum: 13606,
+        average: 1236.909090909091,
+        median: 1205,
+        stdev: 97.07677799786251,
+        min: 1129,
+        max: 1471
+      },
+      {
+        page: 'OH',
+        count: 11,
+        sum: 7990,
+        average: 726.3636363636364,
+        median: 683,
+        stdev: 111.41427420159309,
+        min: 585,
+        max: 944
+      },
+      {
+        page: 'RH',
+        count: 11,
+        sum: 15361,
+        average: 1396.4545454545455,
+        median: 1372,
+        stdev: 122.13879112518127,
+        min: 1273,
+        max: 1726
+      }
+    ]
+  }
